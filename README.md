@@ -171,3 +171,4 @@ This project is built and maintained by **9 Team Member Roles**:
 
 - **Backend:** https://github.com/abhisheksingh488/spotify-personalized-ai
 - **Frontend:** https://github.com/abhisheksingh488/spotify-fronted
+- **Video Demonstration:** https://drive.google.com/file/d/1-tkfYiCqizLGlRSzogG6CirlmLSS92Dv/view?usp=sharing
