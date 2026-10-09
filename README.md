@@ -165,3 +165,9 @@ This project is built and maintained by **9 Team Member Roles**:
 | **Member 6** | `services/memory-mcp-server/` | Dedicated FastMCP tool server with authentication & rate limiting. |
 | **Member 7** | `services/deletion-orchestrator/` & `packages/policy-engine/` | Cross-store privacy deletion, consent enforcement, tenant isolation security checks. |
 | **Member 8** | `apps/memory-controls/` & `apps/memory-console/` | Next.js/React User Memory Controls sidebar & Internal Admin Console. |
+
+
+## Project Repositories
+
+- **Backend:** https://github.com/abhisheksingh488/spotify-personalized-ai
+- **Frontend:** https://github.com/abhisheksingh488/spotify-fronted
